@@ -1,3 +1,5 @@
+With fix to support 10.0 iOS
+
 # @segment/analytics-react-native
 
 The hassle-free way to add analytics to your React-Native app.

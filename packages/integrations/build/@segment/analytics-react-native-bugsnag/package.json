@@ -1,7 +1,0 @@
-{
-  "name": "@segment/analytics-react-native-bugsnag",
-  "main": "index.js",
-  "version": "1.3.0",
-  "license": "MIT",
-  "description": "Bugsnag Integration for Segment's React-Native analytics library."
-}

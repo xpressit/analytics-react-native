@@ -1,7 +1,0 @@
-{
-  "name": "@segment/analytics-react-native-intercom",
-  "main": "index.js",
-  "version": "1.3.0",
-  "license": "MIT",
-  "description": "Intercom Integration for Segment's React-Native analytics library."
-}

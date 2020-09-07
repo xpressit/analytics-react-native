@@ -1,7 +1,0 @@
-{
-  "name": "@segment/analytics-react-native-amplitude",
-  "main": "index.js",
-  "version": "1.3.0",
-  "license": "MIT",
-  "description": "Amplitude Integration for Segment's React-Native analytics library."
-}

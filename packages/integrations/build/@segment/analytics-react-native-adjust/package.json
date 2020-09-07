@@ -1,7 +1,0 @@
-{
-  "name": "@segment/analytics-react-native-adjust",
-  "main": "index.js",
-  "version": "1.3.0",
-  "license": "MIT",
-  "description": "Adjust Integration for Segment's React-Native analytics library."
-}

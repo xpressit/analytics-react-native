@@ -1,0 +1,7 @@
+{
+  "name": "@segment/analytics-react-native-facebook-app-events-ios",
+  "main": "index.js",
+  "version": "1.3.0",
+  "license": "MIT",
+  "description": "Facebook App Events Integration for Segment's React-Native analytics library."
+}

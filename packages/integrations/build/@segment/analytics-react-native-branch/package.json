@@ -1,0 +1,7 @@
+{
+  "name": "@segment/analytics-react-native-branch",
+  "main": "index.js",
+  "version": "1.3.0",
+  "license": "MIT",
+  "description": "Branch Integration for Segment's React-Native analytics library."
+}

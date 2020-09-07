@@ -1,0 +1,7 @@
+{
+  "name": "@segment/analytics-react-native-tapstream-android",
+  "main": "index.js",
+  "version": "1.3.0",
+  "license": "MIT",
+  "description": "Tapstream Integration for Segment's React-Native analytics library."
+}

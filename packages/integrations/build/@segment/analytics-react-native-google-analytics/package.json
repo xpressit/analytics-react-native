@@ -1,0 +1,7 @@
+{
+  "name": "@segment/analytics-react-native-google-analytics",
+  "main": "index.js",
+  "version": "1.3.0",
+  "license": "MIT",
+  "description": "Google Analytics Integration for Segment's React-Native analytics library."
+}
